@@ -148,3 +148,4 @@ C:\Users\dgaut\source\repos\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.dll
 C:\Users\dgaut\source\repos\RazorPagesMovie\obj\Debug\net5.0\ref\RazorPagesMovie.dll
 C:\Users\dgaut\source\repos\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.pdb
 C:\Users\dgaut\source\repos\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.genruntimeconfig.cache
+C:\Users\dgaut\source\repos\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.csproj.AssemblyReference.cache
